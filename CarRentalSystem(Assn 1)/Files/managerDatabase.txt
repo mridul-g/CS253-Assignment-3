@@ -1,0 +1,2 @@
+manager0 manager0 pass0
+manager1 manager1 pass1
